@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+#baslik{
+    font-size: 30px;
+    color:red;
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+    color:blueviolet;
+    text-align: center;
+}
+h3{
+    color:orange;
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+img{
+    width:300px;
+}
